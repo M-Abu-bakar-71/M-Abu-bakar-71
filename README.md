@@ -23,6 +23,21 @@ I am a Data Science student at UET Lahore and an aspiring Full Stack Developer w
 * Git & GitHub
 
 ---
+Tech Stack
+Frontend
+React Next.js JavaScript TypeScript CSS3 Bootstrap
+
+Backend
+Node.js Express .NET Core PHP
+
+AI & Machine Learning
+Python TensorFlow OpenCV scikit-learn
+
+Databases
+MongoDB MySQL MS SQL Server
+
+Tools & DevOps
+Git AWS Docker Power BI
 
 ## 🚀 Projects
 
