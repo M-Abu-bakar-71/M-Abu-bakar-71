@@ -9,18 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Data Science student at UET Lahore and an aspiring Full Stack Developer with a strong interest in data-driven technologies. I enjoy exploring how data can be transformed into useful insights and building scalable web applications.
-
----
-
-## 🛠 Skills
-
-* Python
-* Data Structures & Algorithms
-* Data Analysis
-* Machine Learning (Learning)
-* HTML & CSS
-* Git & GitHub
+I am a Data Science student at UET Lahore and an aspiring Full Stack Developer with a strong interest in data-driven technologies. I enjoy exploring how data can be transformed into useful insights and building innovative solutions.
 
 ---
 
