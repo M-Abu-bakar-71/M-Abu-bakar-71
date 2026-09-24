@@ -47,19 +47,47 @@ I am a Data Science student at UET Lahore and an aspiring Full Stack Developer w
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
+---
+
 ## 🚀 Projects
 
-* Python Notepad (DSA Based Text Editor)
-* Car Showroom Management System
-* Hospital / Clinic Management System
-* Hotel Management System
+- Python Notepad — DSA-based text editor
+- Car Showroom Management System
+- Hospital / Clinic Management System
+- Hotel Management System
+
+---
+
+## 🔬 Published Research
+
+- **Brain-Inspired Spiking Neural Networks for Ultra-Low Power Intelligent Computing Systems**
+- **Vision Transformer-Based Malaria Detection System**
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Abu-bakar-71&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Abubakar's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Abu-bakar-71&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=M-Abu-bakar-71&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/M-Abu-bakar-71
+<p align="center">
+  <a href="https://github.com/M-Abu-bakar-71">
+    <img src="https://img.shields.io/badge/GitHub-M--Abu--bakar--71-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
----
+<p align="center">
+  ⚡ <strong>Building software. Exploring AI. Creating impact.</strong>
+</p>
 
 ⭐ *Learning, building, and exploring the world of Data Science, AI, and Web Development.*
