@@ -121,15 +121,6 @@
 <a href="https://github.com/M-Abu-bakar-71">
   <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/m-abubakar-jalil-a2b671353">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:abubakarjalil421@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abubakarjalil421%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email to abubakarjalil421@gmail.com" />
-</a>
-<a href="https://wa.me/923202377800">
-  <img src="https://img.shields.io/badge/WhatsApp-03202377800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp at 03202377800" />
-</a>
 
 </div>
 
